@@ -3,6 +3,7 @@ using System.Threading;
 
 namespace TIC_TAC_TOE
 {
+    //Batatinhas
     internal class Program
     {
         //making array and
